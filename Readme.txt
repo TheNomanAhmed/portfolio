@@ -6,4 +6,3 @@ Author: BootstrapMade.co
 +++++++++
 as
 as
-s
