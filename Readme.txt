@@ -4,4 +4,4 @@ Theme Name: Folio
 Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
 Author: BootstrapMade.co
 ++
-22222
+222
