@@ -1,1 +1,1 @@
-Thanks for downloading this theme!
+Thanks for downloading this them
